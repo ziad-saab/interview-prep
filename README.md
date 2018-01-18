@@ -2,15 +2,16 @@
 
 So now you've finished DecodeMTL, what now? 
 
-You've followed DecodeMTL's Job Guide, pounded the pavement, submitted some CV's 
+You're following DecodeMTL's Job Guide, and pounding the pavement...you've submitted some CV's 
 and cover letters, and now you have some interviews set up. Props!! 🙌🙌 (React props that is! 😉
-`this.props.upTop = '🙌'`)
+`this.props.upTop = '🙌';`)
 
 Now to prepare for the interview... dun dun dun! 😱 What questions will employers ask? What 
 questions should **we** ask employers to make it look like we've come prepared and we know what we
 want and are looking for? 
 
-Fear not, my friend, you've come to the right place! 
+Fear not, my friend, you've come to the right place! (or one among many! 
+The internet is a beautifulll place! And Google is your bae. 😎)
 
 Here are just some of the questions I've encountered from my interviews that employers have asked me
 that I thought were good questions (and that I could've prepared better for), and vice versa!
