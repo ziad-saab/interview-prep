@@ -16,5 +16,8 @@ successful in a pressure situation?
 - Have you participated in team based sports? What role do you play in it? 
 What did you bring to the team?
 - How do you approach an issue if someone on your team isn't pulling their weight?
+- At your last job, who did you report to? 
+  - If I was to call them after this interview, what would they say about you?
+  - On a rating from 1 - 10, what number would they give you?
 - 👑 **FINAL BOSS**: What question did I not ask you that you would feel help you get the job?
     - **Follow-up**: What would be your answer to that question?
